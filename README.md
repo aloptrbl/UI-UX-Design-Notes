@@ -9,5 +9,6 @@ Collection of notes, slides and website reference of UI/UX Design.  ✨
 
 ## Websites
 - [uxmovement.com](https://uxmovement.com/)
+- [evernote.design](https://www.evernote.design/)
 
 Feel Free to contributes to this repo. Thanks in advance
