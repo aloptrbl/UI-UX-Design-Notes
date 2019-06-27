@@ -6,6 +6,7 @@ Collection of notes, slides and website reference of UI/UX Design.  ✨
 
 ## Websites
 - [uxmovement.com](https://uxmovement.com/) - User Experience Design Articles
+- [design.google](https://design.google/) -  We seek to design experiences that inspire and enlighten our users
 - [evernote.design](https://www.evernote.design/) - All in One Bookmark Links for Designer
 - [uxcellence.com](https://www.evernote.design/) - Explore excellence user experience
 - [mobbin.design](https://mobbin.design/) - Latest Mobile Design Patterns
