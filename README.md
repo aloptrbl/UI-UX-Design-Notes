@@ -18,5 +18,10 @@ Collection of notes, slides and website reference of UI/UX Design.  ✨
 - [humanebydesign.com](https://humanebydesign.com/) - A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being
 - [lawsofux.com](https://lawsofux.com/) - Collection of the maxims and principles that designers can consider when building user interfaces
 
+## Training/Courses
+- [interaction-design.org](https://www.interaction-design.org/) - Online UX design courses and literature created by design experts
+- [www.nngroup.com](https://www.nngroup.com/) - World Leaders in Research-Based User Experience
+
+
 
 Feel Free to contributes to this repo. Thanks in advance
