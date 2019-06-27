@@ -16,6 +16,7 @@ Collection of notes, slides and website reference of UI/UX Design.  ✨
 - [uxplanet.org](https://uxplanet.org/) - One-stop resource for everything related to user experience
 - [www.checklist.design](https://www.checklist.design/) - Best UI elements for the best UX practice
 - [humanebydesign.com](https://humanebydesign.com/) - A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being
+- [heydesigner.com](https://heydesigner.com) - Design news. Curated daily
 - [lawsofux.com](https://lawsofux.com/) - Collection of the maxims and principles that designers can consider when building user interfaces
 
 ## Training/Courses
