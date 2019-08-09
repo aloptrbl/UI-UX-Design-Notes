@@ -20,6 +20,9 @@ Collection of notes, slides and website reference of UI/UX Design.  ✨
 - [www.checklist.design](https://www.checklist.design/) - Best UI elements for the best UX practice
 - [humanebydesign.com](https://humanebydesign.com/) - A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being
 - [heydesigner.com](https://heydesigner.com) - Design news. Curated daily
+- [http://uxdesign.com](http://uxdesign.com) - Humanizing Interaction
+- [https://www.uxmatters.com](https://www.uxmatters.com) - Insights and inspiration for the user experience community
+- [https://www.smashingmagazine.com](https://www.smashingmagazine.com) - for web designers and developers
 - [lawsofux.com](https://lawsofux.com/) - Collection of the maxims and principles that designers can consider when building user interfaces
 
 ## Training/Courses
